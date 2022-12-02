@@ -1,0 +1,9 @@
+.bgimg {
+     background-image: url("https://img.freepik.com/free-vector/spring-pink-rose-floral-background-with-watercolor_65186-2890.jpg?w=1060&t=st=1669140086~exp=1669140686~hmac=36f8ca1a7b3e47b7b2798713b4584028772b4d9c7c3d18676e47df01e695a142");
+     height: 100vh;
+     width: 100vw;
+     background-size: cover;
+}
+.todo {
+     text-align: center;
+}
